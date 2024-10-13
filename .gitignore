@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+venv_hackpsu/
+
+# Logs and other files
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Python-specific
+*.sqlite3
+
+# YouTube video audio files
+yt_video_audio/
+yt_audio_transcription/
+yt_video_exercises_routine/

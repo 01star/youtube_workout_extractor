@@ -1,0 +1,8 @@
+# to downlaod the yt video/audio --
+pytube==15.0.0
+pytubefix==7.4.0
+
+# for getting the model to get the transcriptions from yt videos
+openai-whisper
+
+
